@@ -7,4 +7,4 @@ Basiert auf dem [Hugo](https://gohugo.io/) Theme [Console](https://themes.gohugo
 # Build & Deploy
 Lokal betreiben/verändern der Webseite per Hugo mit dem Befehl `hugo server`. Per Befehl `hugo` wird unter /public das HTML generiert, das dann per beliebigen Webserver (z.B. Apache) bereitgestellt werden kann.
 
-Deployment aktuell per Github actions nach Uberspace.
+Deployment aktuell per Github Actions nach Uberspace.
