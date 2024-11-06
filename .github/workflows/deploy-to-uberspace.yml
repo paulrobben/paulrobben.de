@@ -22,7 +22,7 @@ defaults:
 
 jobs:
   # Build job
-  build:
+  build and deploy:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.137.1
@@ -45,11 +45,6 @@ jobs:
           hugo \
             --gc \
             --minify \
-            
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
       - name: Deploy using Rsync
         uses: burnett01/rsync-deployments@6.0.0
         with:
