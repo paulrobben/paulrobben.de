@@ -51,24 +51,10 @@ theme = "adritian-free-hugo-theme"
   weight = 6
 
   [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
+  name = "Code on Github"
+  URL = "https://github.com/paulrobben/paulrobben.de"
+  weight = 1
 
-#  [[menu.footer]]
-#  name = "Portfolio"
-#  URL = "#portfolio"
-#  weight = 3
-
-#  [[menu.footer]]
-#  name = "Contact"
-#  URL = "#contact"
-#  weight = 4
-
-  [[menu.footer]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 5
 
 
 [params]
@@ -94,7 +80,3 @@ theme = "adritian-free-hugo-theme"
 
   [params.footer]
       copyright = "© Paul Robben. Free Hugo theme by Adrián Moreno Peña."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
