@@ -30,10 +30,10 @@ theme = "adritian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.header]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
 
 #  [[menu.header]]
 #  name = "Experience"
@@ -55,20 +55,25 @@ theme = "adritian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.footer]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
+
+#  [[menu.footer]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 4
 
   [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+  name = "Blog"
+  URL = "/blog"
+  weight = 5
 
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "photos", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   homepageExperienceCount = 6
 
@@ -84,11 +89,11 @@ theme = "adritian-free-hugo-theme"
       enabled = false
 
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Paul"
+    text2 = "Robben"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+      copyright = "© Paul Robben. Free Hugo theme by Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"

@@ -1,14 +1,17 @@
 # page title
 head:
-  title: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
-  description: "This hugo theme (Adritian) is based on Boostrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  title: "Paul Robben"
+  description: "Dies ist die persönliche Webseite von Paul Robben."
 # showcase
 showcase:
   enable: true
-  title: "Paul Robben"
-  subtitle: "Test"
+#  title: "Paul Robben"
+#  subtitle: "Test"
   description: >
-    This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href="https://adritian-demo.vercel.app//">as a demo site</a> or <a target='_blank' href="https://www.adrianmoreno.info">a real one</a>.<br>You can find this content to edit in the theme.yaml file.
+    Hallo! Ich bin Paul Robben. Ich setze mich in verschiedenen sozialen Bewegungen für das gute Leben für alle ein.
+
+
+    Momentan arbeite ich im [Team Prototype Fund](https://prototypefund.de) des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de)
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -17,56 +20,33 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    btnText: "Kontakt"
+    URL: "mailto:info@paulrobben.de/"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adrianmoreno/"
+      URL: "https://www.linkedin.com/in/paul-robben/"
 
     - icon: "github"
-      URL: "https://github.com/zetxek"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
+      URL: "https://github.com/paulrobben"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.instagram.com/blackandriot/"
 
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Wer bin ich?"
   content: >
-    <p class="lead">
       Here you can add some information about you. A small excerpt that describes
       your experience, for example.
-      </p>
-      <p class="lead">
+
+
       You explain something about your academic/study background, as well as your
       preferred areas of work. Think of this area as context-setting for the experience
       that you will describe below. Why did you change jobs? What drove you to take a
       new gig? Even if you are not looking for a job, it's a good way to hint about
       what kind of projects you are interested in.
-    </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -74,6 +54,17 @@ about:
   image:
     x: "images/who-am-i/user-picture.png"
     _2x: "images/who-am-i/user-picture@2x.png"
+
+
+# photos
+
+photos:
+  enable: true
+  title: "Fotografie"
+  items:
+    - title: "Testtitel"
+      path: /photos/profile_quer.png
+      description: "Testbeschreibung"
 
 # education
 education:
@@ -110,11 +101,11 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -140,7 +131,7 @@ testimonial:
 
 # contact
 contact:
-  enable: true
+  enable: false
   title: "Contact"
   form:
     action: "#"
@@ -162,7 +153,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."

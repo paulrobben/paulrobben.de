@@ -1,0 +1,15 @@
+{{ if .Site.Data.homepage.photos.enable }}
+<section class="section rad-animation-group pb-0" id="about">
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      {{ range .Site.Data.homepage.photos.items }}
+      <div class="photos col-4">
+          {{ .title }}
+          <div class="image">
+              <img src="{{ .path }}" class="img img-responsive full-width" />
+          </div>
+    </div>
+    {{ end}}
+  </div>
+</section>
+{{ end }}
