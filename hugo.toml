@@ -1,7 +1,7 @@
 baseURL = "https://paulrobben.de"
 languageCode = "de-de"
 theme = "adritian-free-hugo-theme"
-
+timeout = "400s"
 # Plugins
 [params.plugins]
 
