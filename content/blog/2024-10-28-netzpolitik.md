@@ -1,0 +1,99 @@
++++
+title = 'Holen wir uns das Internet zurück!'
+date = 2024-10-28T10:27:33+02:00
+draft = false
+type = 'blog'
++++
+
+Der Großteil des digitalen Lebens wird von einigen wenigen Tech-Konzernen kontrolliert. Trotz Regulierung und Alternativen bleibt ihre Macht ungebrochen. Es ist Zeit, das Problem an der Wurzel zu packen: Wir müssen Big Tech enteignen, vergesellschaften und demokratisieren. Ein Plädoyer.
+
+
+*Gastbeitrag von Karla Hildebrandt & Paul Robben bei [netzpolitik.org](https://netzpolitik.org/2024/ein-plaedoyer-holen-wir-uns-das-internet-zurueck/).*
+
+ <!--more--> 
+
+Als Elon Musk 2023 Twitter kaufte – eine der bis dahin wichtigsten politischen Debattenplattformen – und nach seinem persönlichen Gusto umgestaltete, war die Empörung groß. Doch gegen die Übernahme der Firmenanteile konnte weder die Community noch die Politik viel ausrichten. Dabei drehte sich der mediale Skandal nicht darum, dass sich ein Tech-Milliardär einfach eine Plattform kaufen konnte, über die selbst US-Präsidenten kommunizieren. Es ging vor allem um die (un-)lustigen Tweets, die er darüber schrieb. Mittlerweile haben wir hingenommen, dass es Twitter nicht mehr gibt und die Plattform X ein Sammelbecken für Verschwörungsideologien, Alt-Right-Trolls und offenen Antisemitismus geworden ist.
+
+
+Aber es wäre zu kurz, X/Twitter als einzige Plattform mit problematischen Dynamiken zu nennen: Es wundert kaum mehr, dass der Wahlerfolg der AfD vom TikTok-Algorithmus gefördert wird. Eine Entwicklung, die an die geteilten Verschwörungsideologien auf Youtube erinnert, wo sich auch Aufnahmen des Christchurch-Attentats verbreiteten. Oder an den schrecklichen Einfluss des Facebook-Algorithmus, der 2017 die Vertreibung und Gräueltaten an den Rohingya in Myanmar förderte.
+
+
+Neben der Verstärkung von Desinformation und Hass steht außerdem, wie die großen Plattformen ihre Nutzer*\innen ausbeuten. Die Recherchen zum Werbemarktplatz Xandr zeigten 2023, was viele bereits erahnten: Plattformen und Dienste verkaufen detaillierte Daten ihrer Nutzer\*innen und teilen sie in Kategorien wie „Mütter, die shoppen wie verrückt“ oder „Essstörung“ ein.
+
+
+All diese Probleme haben eines gemeinsam: Die dahinterstehenden Entscheidungen wurden nicht demokratisch, sondern von Privatkonzernen oder gar (sehr reichen) Einzelpersonen getroffen – meist mit dem Ziel, Profite zu maximieren. Bisher konnte kein politisches Instrument diese Struktur durchbrechen.
+
+
+Grundlegende digitale Dienste und Infrastrukturen für den Großteil der Weltbevölkerung werden weiterhin von Tech-Milliardären und Tech-Konzernen kontrolliert, die ohne demokratische Kontrolle über die politische Ausrichtung, Datenschutz und (Nicht-)Einhaltung von Menschenrechten entscheiden können. Gesamtgesellschaftliche Ziele jenseits ihrer Profitlogik bleiben dabei auf der Strecke.
+Es könnte alles anders sein
+
+
+Muss das so sein? Werbecookies, manipulatives Design oder nervige Anzeigen sind kein notwendiger Teil des Internets. Mastodon, Open Street Maps oder Wikipedia machen es vor: das dezentrale, datensichere, tracking-freie, klimafreundliche Internet existiert.
+
+Die Open-Source-Community bietet für fast jeden digitalen Dienst und jede Plattform eine funktionale, dezentrale und gemeinfreie Alternative an. Viele Bereiche im “Backend des Internets” sind bereits jetzt ohne Open Source, demokratische Entscheidungsfindung und kollektives Eigentum undenkbar. Leider ist diese gemeinwohlorientierte Infrastrukturarbeit immer noch oft unsichtbar und un- oder unterbezahlt.
+
+
+Wo heute besagte Konzerne dominieren, könnte es eine diverse Infrastruktur aus Plattformen, öffentlichen Diensten und digitalen demokratischen Räumen geben. Das frühe Internet, mit einer Vielzahl an Blogs, Foren und persönlichen Webseiten, ist als Vorbild sicher nicht perfekt, aber in seinen Ursprüngen ein viel freierer und egalitärer Ort als heute.
+
+Warum holen wir uns das nicht zurück und machen es noch besser?
+# Holen wir uns unser Internet zurück!
+
+Seit der Initiative Deutsche Wohnen und Co. Enteignen ist die Debatte um Vergesellschaftung als politisches Instrument wieder im Gange. Es ist endlich Zeit, auch über die Vergesellschaftung von Google, Facebook, X und Co. zu sprechen.
+
+Das beinhaltet vor allem drei Schritte.
+
+### 1. Enteignen: Nehmen, was uns zusteht!
+
+Die alten Plattformstrukturen müssen aufgelöst und enteignet werden. Häufig existieren demokratische und freie Open-Source-Alternativen nur parallel und kleiner zu den großen Plattformen. Der sogenannte Lock-In-Effekt, der Nutzer*innen so stark an einen Dienst bindet, dass der Wechsel kaum realistisch ist, wurde bereits richtigerweise als Problem analysiert. Doch dass sich viele Personen auf einer Plattform sammeln, ist für uns nicht das Problem. Es ist die Verwaltungsstruktur hinter der Plattform.
+
+
+Genauso wie es sinnlos ist, zwei parallele Stromnetze oder Straßennetze durch zwei unterschiedliche Unternehmen aufbauen zu lassen, ist es sinnlos zu versuchen, die Lock-In-Effekte und Marktmacht der Großkonzerne zu umgehen. Google Maps bietet sicher keine schlechten Karten an, doch es entsteht ein Problem, sobald Google einem Ladenbesitzer verwehrt, auf der Plattform vertreten zu sein.
+
+
+Wir wollen nicht verbieten, gute digitale Dienste zur Verfügung zu stellen, sondern wir wollen verbieten, undemokratisch über solche zu verfügen, die zur Infrastruktur für uns alle geworden sind. Diese müssen wir uns zurückholen!
+
+### 2. Demokratisieren: Das sind wir alle!
+
+Neue Plattformen sollen nicht von einzelnen CEOs, Aktionär\*innen oder Politiker\*innen bestimmt sein. Sondern von den Nutzer\*innen und Programmierer\*innen. Über Algorithmen, Benutzerfreundlichkeit und Datennutzung sollten sie transparent mitentscheiden können. Dazu gibt es unterschiedliche Modelle von Rätestrukturen bis zu Delegiertenprozessen.
+
+
+Für Lieferplattformen wie Amazon würde das auch eine Mitbestimmung der Beschäftigten, Zulieferer und Kund*innen bedeuten. Wie im Kleingartenverein gilt aber: Man darf den Vorstand machen lassen. Bis es einem nicht mehr passt. Wenn der Vorstand also auf die Idee kommt, eine populäre Schnittstelle für Drittanbieter-Apps abzuschalten, müssen wir diese Entscheidung nicht mehr einfach hinnehmen.
+
+### 3. Gemeinwohlorientiert verwalten: Nicht vom Innenministerium!
+
+Plattformen, Systeme und Daten sollen nicht einfach verstaatlicht werden. Angesichts des aufkommenden Faschismus in Europa ist es keine gute Idee, solch mächtige Tools in die Hände von staatlichen Institutionen zu legen. Deswegen sollten die digitalen Infrastrukturen in demokratischere Strukturen überführt werden, die unabhängig von wechselnden Regierungen oder behördlichen Interessen funktionieren. Eine starke Zivilgesellschaft braucht die Entscheidungsstrukturen über die eigenen Infrastrukturen, um sich zu organisieren.
+
+
+Mit Nutzer*innendaten könnten wir dann auch ganz anders umgehen: Statt sie als Ware zu betrachten, die man zu Geld machen oder zur Meinungssteuerung nutzen kann, könnten wir sie mit Blick auf ihren gesamtgesellschaftlichen Sinn sehen. Wir sollten demokratisch darüber diskutieren, ob wir beispielsweise Geodaten zur Stauerkennung nutzen wollen – oder ob wir das lieber lassen.
+
+
+Gleichzeitig bedeutet das keine Loslösung von öffentlichen Geldern. Für eine funktionierende digitale Infrastruktur braucht es, genauso wie bei allen anderen gesellschaftlichen Infrastrukturen, massive öffentliche Investitionen. Vorbild für diese Kombination aus öffentlicher Finanzierung und losgelöster Kontrolle könnte das Konzept einer Anstalt Öffentlichen Rechts sein, die auch Deutsche Wohnen & Co. Enteignen vorschlägt.
+# Wir sind mit unserem Latein am Ende
+
+Die politische Arbeit der letzten Jahre hat gezeigt: Viele kluge Versuche, die Plattformen zu regulieren, gehen aktuell nicht weit genug.
+
+
+Die Verdrängung der Großen durch Alternativen ist bisher nicht erfolgversprechend. Openstreetmap etwa konnte Google Maps nicht den Platz streitig machen. Zu groß ist die Machtbasis der Big-Tech-Konzerne. Selbst als Twitter alles darauf anlegte, möglichst viele Nutzer\*innen von der Plattform zu drängen, war mit Meta ein weiterer großer Konzern zur Stelle und warb mit Threads bereits um die unzufriedenen Kund\*innen. Auch wenn das Fediverse um Mastodon einen Achtungserfolg erzielen konnte, existieren staatlich geförderte Plattformen oder Open-Source-Alternativen nur parallel und kleiner zu den großen Plattformen und lösen das Problem nicht.
+
+
+Die Zerschlagung von Tech-Konzernen führt aktuell genauso wenig ans Ziel: Zwar kann sie Monopole auflösen und Konzernmacht eingrenzen, geht aber nicht weit genug. Natürlich wäre es gut, wenn Google nicht gleichzeitig über Algorithmen, Werbeflächen und Inhalte verfügt. Aber auch ein Google, das „nur“ den Such-Algorithmus alleine beherrscht, entscheidet undemokratisch über zentrale Infrastrukturen.
+
+
+Wir sollten als Gesellschaft demokratisch darüber entscheiden, welche Dienste wir kleinteilig dezentral verwalten wollen und bei welchen es vielleicht sinnvoll ist, eine gemeinsame Lösung anzubieten.
+
+
+Auch EU-Regulierung wie der Digital Markets Act und Digital Services Act schützt Nutzer*innen zwar besser und ermöglicht Interoperabilität – aber sie greift weder die grundlegenden Machtstrukturen an noch fordert sie dringend notwendige demokratische Kontrolle.
+
+
+Uns geht es deshalb um eine Rückeroberung des Internets und eine Demokratisierung aus der Community.
+# Es gibt noch keine Blaupause
+
+Denn das digitale Leben ist schon lange nicht mehr optional. Plattformen, Kartendienste und soziale Medien sind mittlerweile grundlegende Strukturen unseres Alltags. Die digitale Daseinsvorsorge sollte deswegen wie viele Straßennetze, öffentliche Parks oder ÖPNV sicher zugänglich und demokratisch kontrolliert sein – weil sie mittlerweile genauso unverzichtbar ist. In den Händen von gewinnorientierten Tech-Konzernen hat sie schon lange nichts mehr verloren.
+
+Für Vergesellschaftung gibt es noch keine Blaupause. Es braucht Diskussionen über eine Rechtsform, über die demokratischen Entscheidungsstrukturen und -prozesse und auch über die rechtliche Grundlage einer Vergesellschaftung an sich. Wir beziehen uns zwar bewusst auch auf Kampagnen wie Deutsche Wohnen & Co. Enteignen, die eine Vergesellschaftung auf Basis des Artikel 15 Grundgesetz fordern. Für Tech-Konzerne könnte es aber auch andere rechtliche Wege geben, insbesondere, wenn es sich um den gesamten europäischen Binnenmarkt handelt.
+
+Viele weitere Fragen sind noch offen: Wie sollten wir mit den Servern umgehen, die überall auf der Welt stehen und auf denen die Dienste letztlich laufen? Welche Dienste müssen wir enteignen und vergesellschaften, welche nicht? Womit fangen wir an? Welche gesellschaftlichen Kräfte können das durchsetzen?
+
+Darauf haben wir auch noch keine (umfassenden) Antworten. Eins ist aber klar: Die letzten 20 Jahre haben deutlich gemacht, dass die digitalen Infrastrukturen in der Hand von Milliardären nicht nachhaltig, gerecht oder demokratisch sind.
+
+Es ist höchste Zeit, das dezentrale, demokratische Internet zurückzuholen!
