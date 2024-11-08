@@ -9,3 +9,7 @@
 html body ::selection{
     background-color:#488079;color:#fff
 }
+
+.photos {
+  padding: 10px;
+}

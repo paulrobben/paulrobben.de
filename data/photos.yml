@@ -1,0 +1,37 @@
+enable: true
+title: "Fotografie"
+title_enable: true
+# Place your files in /static/photos
+photos:
+    - title: "Profilbid"
+      filename: profile_quer.png
+      description: "Testbeschreibung"
+      date: 2024-09-03
+    - title: "Profilbid"
+      filename: 2019-001-02.jpg
+      description: "Testbeschreibung"
+      date: 2018-12-11
+    - title: "Profilbid"
+      filename: 2019-002-14.jpg
+      description: "Testbeschreibung"
+      date: 2018-12-29
+    - title: "Profilbid"
+      filename: 2019-002-21.jpg
+      description: "Testbeschreibung"
+      date: 2019-01-03
+    - title: "Profilbid"
+      filename: 2019-004-12.jpg
+      description: "Testbeschreibung"
+      date: 2019-01-04
+    - title: "Profilbid"
+      filename: 2019-005-29.jpg
+      description: "Testbeschreibung"
+      date: 2019-02-12
+    - title: "Profilbid"
+      filename: 2019-007-18.jpg
+      description: "Testbeschreibung"
+      date: 2019-03-01
+    - title: "Profilbid"
+      filename: 2019-008-01.jpg
+      description: "Testbeschreibung"
+      date: 2020-00-00

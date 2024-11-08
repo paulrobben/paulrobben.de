@@ -1,16 +1,20 @@
-{{ if .Site.Data.homepage.photos.enable }}
+{{ if .Site.Data.photos.enable }}
 <section class="section rad-animation-group pb-0" id="photos">
   <div class="container rad-fade-down">
-    <div class="row d-flex flex-column-reverse flex-md-row">
-      {{ range .Site.Data.homepage.photos.items }}
-      <div class="photos col-4">
-          <div class="image">
-              <div class="col-xs-4 ratio ratio-1x1">
-                <img src="{{ .path }}" alt="{{ .title }}" class="img img-responsive full-width align-middle" />
-              </div>
-          </div>
+    {{ if .Site.Data.photos.title_enable }}
+    <div class="row">
+      <div class="col-4 mx-auto text-center">
+        <h2>{{ .Site.Data.photos.title }}</h2>
+      </div>
     </div>
+    {{ end }}
+    <div class="row d-flex flex-column-reverse flex-md-row">
+    {{ range sort .Site.Data.photos.photos "date" "desc"}}
+      <div class="photos col-4  align-self-center">
+        <img src="/photos/{{ .filename }}" alt="{{ .title }}" class="img img-responsive full-width" />
+      </div>
     {{ end}}
+    </div>
   </div>
 </section>
 {{ end }}

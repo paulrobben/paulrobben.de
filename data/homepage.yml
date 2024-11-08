@@ -66,15 +66,7 @@ blog:
     icon: #empty for no icon
     btnText: "Mehr..."
 
-# photos
-
-photos:
-  enable: true
-  title: "Fotografie"
-  items:
-    - title: "Testtitel"
-      path: /photos/profile_quer.png
-      description: "Testbeschreibung"
+# photos in /data/photos.yml
 
 # education
 education:
