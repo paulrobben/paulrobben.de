@@ -13,10 +13,10 @@ showcase:
 
     Momentan arbeite ich im [Team Prototype Fund](https://prototypefund.de) des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de)
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/showcase/profile_quer.png"
+    _2x: "images/showcase/profile_quer.png"
   imageMobile:
-    x: "images/showcase/showcase-mobile.jpg"
+    x: "images/showcase/profile_quer.jpg"
 
   button:
     icon: "icon-mail-fill"
