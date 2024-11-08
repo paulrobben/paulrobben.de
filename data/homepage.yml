@@ -13,10 +13,8 @@ showcase:
 
     Momentan arbeite ich im [Team Prototype Fund](https://prototypefund.de) des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de)
   image:
-    x: "images/showcase/profile_quer.png"
-    _2x: "images/showcase/profile_quer.png"
-  imageMobile:
-    x: "images/showcase/profile_quer.jpg"
+    path: "images/kamera.png"
+    alt: "Beschreibungstext"
 
   button:
     icon: "icon-mail-fill"
@@ -36,7 +34,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Wer bin ich?"
+  title: "Über mich"
   content: >
       Here you can add some information about you. A small excerpt that describes
       your experience, for example.
@@ -47,13 +45,9 @@ about:
       that you will describe below. Why did you change jobs? What drove you to take a
       new gig? Even if you are not looking for a job, it's a good way to hint about
       what kind of projects you are interested in.
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
   image:
-    x: "images/who-am-i/user-picture.png"
-    _2x: "images/who-am-i/user-picture@2x.png"
+    path: "images/profil_quer.png"
+    alt: "Text"
 
 
 # Blog
