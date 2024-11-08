@@ -9,12 +9,3 @@
 html body ::selection{
     background-color:#488079;color:#fff
 }
-
-.image{
-    position:relative;
-    overflow:hidden;
-    padding-bottom:100%;
-}
-.image img{
-    position:absolute;
-}

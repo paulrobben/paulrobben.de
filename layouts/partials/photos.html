@@ -1,12 +1,13 @@
 {{ if .Site.Data.homepage.photos.enable }}
-<section class="section rad-animation-group pb-0" id="about">
+<section class="section rad-animation-group pb-0" id="photos">
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">
       {{ range .Site.Data.homepage.photos.items }}
       <div class="photos col-4">
-          {{ .title }}
           <div class="image">
-              <img src="{{ .path }}" class="img img-responsive full-width" />
+              <div class="col-xs-4 ratio ratio-1x1">
+                <img src="{{ .path }}" alt="{{ .title }}" class="img img-responsive full-width align-middle" />
+              </div>
           </div>
     </div>
     {{ end}}

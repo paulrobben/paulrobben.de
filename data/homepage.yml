@@ -8,7 +8,7 @@ showcase:
 #  title: "Paul Robben"
 #  subtitle: "Test"
   description: >
-    Hallo! Ich bin Paul Robben. Ich setze mich in verschiedenen sozialen Bewegungen für das gute Leben für alle ein.
+    Hallo! Ich bin Paul Robben. Ich setze mich in verschiedenen sozialen Bewegungen für das gute Leben für alle ein. Außerdem fotografiere ich gerne.
 
 
     Momentan arbeite ich im [Team Prototype Fund](https://prototypefund.de) des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de)
@@ -56,6 +56,16 @@ about:
     _2x: "images/who-am-i/user-picture@2x.png"
 
 
+# Blog
+# Features the latest three of your blog articles
+blog:
+  enable: true
+  title: "Blog"
+  title_enable: true
+  button:
+    icon: #empty for no icon
+    btnText: "Mehr..."
+
 # photos
 
 photos:
@@ -68,7 +78,7 @@ photos:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Education"
   items:
     - university: "University of Life"
@@ -81,7 +91,7 @@ education:
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
   description: >
     This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.

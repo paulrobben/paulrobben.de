@@ -59,7 +59,7 @@ theme = "adritian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "photos", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "photos", "blog", "about",  "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   homepageExperienceCount = 6
 
@@ -79,4 +79,4 @@ theme = "adritian-free-hugo-theme"
     text2 = "Robben"
 
   [params.footer]
-      copyright = "© Paul Robben. Free Hugo theme by Adrián Moreno Peña."
+      copyright = "© Paul Robben. Based on a free Hugo theme by Adrián Moreno Peña."
