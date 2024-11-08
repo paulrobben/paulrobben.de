@@ -4,10 +4,6 @@ title_enable: true
 # Place your files in /static/photos
 photos:
     - title: "Profilbid"
-      filename: profile_quer.png
-      description: "Testbeschreibung"
-      date: 2024-09-03
-    - title: "Profilbid"
       filename: 2019-001-02.jpg
       description: "Testbeschreibung"
       date: 2018-12-11

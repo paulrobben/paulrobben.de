@@ -5,13 +5,14 @@ head:
 # showcase
 showcase:
   enable: true
-#  title: "Paul Robben"
+  title: "Hallo!"
 #  subtitle: "Test"
   description: >
-    Hallo! Ich bin Paul Robben. Ich setze mich in verschiedenen sozialen Bewegungen für das gute Leben für alle ein. Außerdem fotografiere ich gerne.
+    Ich bin Paul Robben. Ich setze mich in verschiedenen sozialen Bewegungen für das gute Leben für alle ein. Außerdem fotografiere ich gerne.
 
 
     Momentan arbeite ich im [Team Prototype Fund](https://prototypefund.de) des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de)
+
   image:
     path: "images/kamera.png"
     alt: "Beschreibungstext"
