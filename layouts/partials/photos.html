@@ -10,8 +10,11 @@
     {{ end }}
     <div class="row d-flex flex-column-reverse flex-md-row">
     {{ range sort .Site.Data.photos.photos "date" "desc"}}
+      {{ $path := (print "photos/" .filename) }}
+      {{ $img := resources.Get $path}}
+      {{ $img := $img.Resize "x1080" }}
       <div class="photos col-4  align-self-center">
-        <img src="/photos/{{ .filename }}" alt="{{ .title }}" class="img img-responsive full-width" />
+        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img img-responsive full-width">
       </div>
     {{ end}}
     </div>
