@@ -2,10 +2,10 @@
 <section class="section rad-animation-group pb-0" id="blog">
   <div class="container rad-fade-down">
     <div class="row d-flex flex-column-reverse flex-md-row">
-    {{ if .Site.Data.homepage.blog.title_enable }}
-      <h2>{{ .Site.Data.homepage.blog.title }}</h2>
-    {{ end }}
-    {{ with .Site.GetPage "/blog" }}
+      {{ if .Site.Data.homepage.blog.title_enable }}
+        <h2>{{ .Site.Data.homepage.blog.title }}</h2>
+      {{ end }}
+      {{ with .Site.GetPage "/blog" }}
       <div class="row d-flex flex-column-reverse flex-md-row">
         {{ range first 3 (sort .Data.Pages "Date" "desc") }}
           <div class = "col-md-4">
@@ -25,8 +25,9 @@
           </div>
         {{ end }}
       </div>
-    {{ end }}
+    </div>
   </div>
+  {{ end }}
 </section>
 
 {{ end }}
