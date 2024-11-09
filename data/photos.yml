@@ -7,6 +7,46 @@ button:
 # Place your files in /static/photos
 photos:
     - title:
+      filename: R0002300.JPG
+      place: Jüterbog
+      date: 2024-10-12
+    - title:
+      filename: R0002058.JPG
+      place: Palermo
+      date: 2024-09-25
+    - title:
+      filename: R0001955.JPG
+      place: Berlin
+      date: 2024-09-17
+    - title:
+      filename: R0001633.JPG
+      place: Frankreich
+      date: 2024-07-06
+    - title:
+      filename: R0001630.JPG
+      place: Frankreich
+      date: 2024-07-06
+    - title:
+      filename: R0001626.JPG
+      place: Frankreich
+      date: 2024-07-06
+    - title:
+      filename: R0001259.JPG
+      place: Berlin
+      date: 2024-05-01
+    - title:
+      filename: R0001241.JPG
+      place: Berlin
+      date: 2024-05-01
+    - title:
+      filename: 2024_005_05.jpg
+      place: Amed, Kurdistan
+      date: 2024-03-29
+    - title:
+      filename: 2023_009_03.jpg
+      place: Mirow
+      date: 2023-05-13
+    - title:
       filename: 2021-033-06.jpg
       place: Kiel
       date: 2021-12-19
