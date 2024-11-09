@@ -13,10 +13,10 @@
       {{ $path := (print "photos/" .filename) }}
       {{ $img := resources.Get $path}}
       {{ $img := $img.Resize "x1080" }}
-      <div class="photos col-4  align-self-center" align="center">
-        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" height="200" class="img img-responsive full-width">
-        <div class="hover-content">
-          <h2> {{ .date}}, {{ .place}}</h2>
+      <div class="photos col-4  align-self-center square" align="center">
+        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img">
+        <div class="phototitle">
+          {{ .place}}, {{ .date | time.Format "January 2006" }}
         </div>
       </div>
     {{ end}}
