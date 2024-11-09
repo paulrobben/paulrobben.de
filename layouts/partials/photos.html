@@ -14,7 +14,9 @@
       {{ $img := resources.Get $path}}
       {{ $img := $img.Resize "x1080" }}
       <div class="gallery col-4  align-self-center square" align="center">
-        <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img">
+        <a href="/fotografie/{{ .date }}"> 
+          <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img">
+        </a>
         <div class="phototitle">
           {{ .place}}, {{ .date | time.Format "January 2006" }}
         </div>
