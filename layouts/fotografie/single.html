@@ -15,7 +15,7 @@
         <!-- Renders-->
         {{ $path := (print "photos/" .Params.filename) }}
         {{ $img := resources.Get $path}}
-        <div class="col-12  align-self-center square" align="center">
+        <div class="photos col-12  align-self-center photo_title single" align="center">
           <img src="{{ $img.RelPermalink }}" alt="{{ .Params.title }}" class="img">
           <div class="phototitle">
             {{ .Params.place}}, {{ .Params.date | time.Format "January 2006" }}

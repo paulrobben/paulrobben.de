@@ -34,7 +34,7 @@ timeout = "400s"
 
   [[menu.header]]
   name = "Fotografie"
-  URL = "#photos"
+  URL = "/Fotografie"
   weight = 3
 
   [[menu.header]]

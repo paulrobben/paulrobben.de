@@ -13,7 +13,30 @@
     <section class="container section">
       <ul>
         <!-- Renders-->
-        {{ partial "photos.html" .  }}
+        <section class="section rad-animation-group pb-0" id="photos">
+          <div class="container rad-fade-down">
+            <div class="row">
+              <div class="col-4 mx-auto text-center">
+                <h2>{{ .Site.Data.photos.title }}</h2>
+              </div>
+            </div>
+            <div class="row d-flex flex-column-reverse flex-md-row">
+            {{ range sort .Site.Data.photos.photos "date" "desc"}}
+              {{ $path := (print "photos/" .filename) }}
+              {{ $img := resources.Get $path}}
+              {{ $img := $img.Resize "x1080" }}
+              <div class="gallery col-4  align-self-center photo_title" align="center">
+                <a href="/fotografie/{{ .date }}">
+                  <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img">
+                </a>
+                <div class="phototitle">
+                  {{ .place}}, {{ .date | time.Format "January 2006" }}
+                </div>
+              </div>
+            {{ end}}
+            </div>
+          </div>
+        </section>
       </ul>
     </section>
   </main>

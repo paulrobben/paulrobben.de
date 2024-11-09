@@ -10,10 +10,6 @@ html body ::selection{
     background-color:#488079;color:#fff
 }
 
-.photos {
-  padding: 10px;
-}
-
 h2 {
   margin-top: 20px;
   margin-bottom: 10px;
@@ -25,6 +21,22 @@ h2 {
   font-weight: lighter;
 }
 
+.single img {
+  max-height: 75vh;
+  padding-top: 20px;
+}
+
+.single photo_title {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+
+
+.gallery photo_title {
+  padding: 10px;
+  margin-bottom: 200px;
+}
+
+}
 .gallery img {
   max-height: 200px;
 }

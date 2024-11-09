@@ -1,6 +1,9 @@
 enable: true
 title: "Fotografie"
 title_enable: true
+button:
+  icon: #empty for no icon
+  btnText: "Mehr..."
 # Place your files in /static/photos
 photos:
     - title:
