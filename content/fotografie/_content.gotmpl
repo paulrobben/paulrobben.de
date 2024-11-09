@@ -1,0 +1,10 @@
+{{ range .Site.Data.photos.photos }}
+  {{ $params := dict "filename" .filename "date" .date "place" .place}}
+  {{ $page := dict
+    "kind" "page"
+    "params" $params
+    "path" .date
+    "title" .date
+  }}
+  {{ $.AddPage $page }}
+{{ end}}

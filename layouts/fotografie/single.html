@@ -1,0 +1,33 @@
+<!-- inject:../components/baseHead/baseHeadStart.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{ partial "head.html" . }} {{ partial "head_custom.html" . }}
+</head>
+
+<body>
+  {{ partial "header.html" . }}
+
+  <main class="list">
+    <section class="container section">
+      <ul>
+        <!-- Renders-->
+        {{ $path := (print "photos/" .Params.filename) }}
+        {{ $img := resources.Get $path}}
+        <div class="col-12  align-self-center square" align="center">
+          <img src="{{ $img.RelPermalink }}" alt="{{ .Params.title }}" class="img">
+          <div class="phototitle">
+            {{ .Params.place}}, {{ .Params.date | time.Format "January 2006" }}
+          </div>
+        </div>
+
+      </ul>
+    </section>
+  </main>
+
+  {{ partial "footer.html" . }} {{ partial "base-foot.html" . }}
+</body>
+
+</html>
+<!-- endinject -->

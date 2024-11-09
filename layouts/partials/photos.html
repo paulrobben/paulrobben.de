@@ -13,7 +13,7 @@
       {{ $path := (print "photos/" .filename) }}
       {{ $img := resources.Get $path}}
       {{ $img := $img.Resize "x1080" }}
-      <div class="photos col-4  align-self-center square" align="center">
+      <div class="gallery col-4  align-self-center square" align="center">
         <img src="{{ $img.RelPermalink }}" alt="{{ .title }}" class="img">
         <div class="phototitle">
           {{ .place}}, {{ .date | time.Format "January 2006" }}
