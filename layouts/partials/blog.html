@@ -11,7 +11,7 @@
           <div class = "col-md-4">
             <h5>{{ .LinkTitle }}</h5>
             <a class ="meta">
-              {{ .Date.Format "January 2, 2006" }}
+              {{ .Params.date | time.Format "January 2006" }}
             </a>
             {{ .Summary }}
             <a
